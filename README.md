@@ -3,3 +3,4 @@ Coding is the same as writing poetry. The proper use of words is so meaningful.
 
 Principal Architect @zoominfo
 
+https://medium.com/@xpr
