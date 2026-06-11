@@ -13,4 +13,4 @@ https://medium.com/@xpr
 [Airbrone](https://github.com/ziv/airborne) - A modern remake for Microprose 80s simulators - very early stage.
 
 
-[Raytiles](https://github.com/ziv/raytiles), a 3D geospatial engine 🌎 for [raylib](https://www.raylib.com/) creatrd during the simulator development allow rendering any place on Earth thanks to Open Data.
+[Raytiles](https://github.com/ziv/raytiles), a 3D geospatial engine 🌎 for [raylib](https://www.raylib.com/), allow render any place on Earth.
