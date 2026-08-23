@@ -3,9 +3,6 @@
 
 Principal Architect [@zoominfo](https://www.zoominfo.com/)
 
-Blog, Snippets. Bits of code.
-https://medium.com/@xpr
-
 ---
 
 #### Tiles - 3D Geospatial Engines 🌎 
