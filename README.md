@@ -11,6 +11,7 @@ Principal Architect [@zoominfo](https://www.zoominfo.com/)
 | [Raytiles](https://github.com/ziv/raytiles) | [Raylib](https://www.raylib.com/) |
 | [Bevytiles](https://github.com/ziv/bevytiles) | [Bevy](https://bevy.org) |
 | [Threetiles](https://github.com/ziv/threetiles) | [Three.js](https://threejs.org/) |
+| [Godotiles](https://github.com/ziv/godotiles) | [Godot](https://godotengine.org/) |
 
 
 <img width="200" align="right" src="https://github.com/user-attachments/assets/b7c2d9b4-853e-4092-8a3e-de470d467a66" />
