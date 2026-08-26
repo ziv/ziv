@@ -1,7 +1,5 @@
     Coding is the same as writing poetry. The proper use of words is so meaningful.
 
-Principal Architect [@zoominfo](https://www.zoominfo.com/)
-
 #### Tiles - 3D Geospatial Engines 🌎 
 
 3D Geospatial Engines allow render any place on Earth from open data.
