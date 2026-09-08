@@ -13,7 +13,7 @@ https://github.com/opentiles
 | [Raytiles](https://github.com/ziv/raytiles) | [Raylib](https://www.raylib.com/) |
 | [Bevytiles](https://github.com/ziv/bevytiles) | [Bevy](https://bevy.org) |
 | [Threetiles](https://github.com/ziv/threetiles) | [Three.js](https://threejs.org/) |
-| [Godotiles](https://github.com/ziv/godotiles) | [Godot](https://godotengine.org/) |
+| [Godotiles](https://github.com/ziv/godotiles) | [Godot](https://store.godotengine.org/asset/ziv/godotiles/) |
 
 #### In Progress Projects
 
