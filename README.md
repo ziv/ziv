@@ -18,5 +18,3 @@ https://github.com/opentiles
 #### In Progress Projects
 
 - [Airbrone](https://github.com/ziv/airborne) - A modern remake for Microprose 80s simulators - very early stage (C++).
-- [Airium](https://github.com/ziv/airium) - Cesium/Web flight simulator.
-- [Hot Tail](https://github.com/ziv/hot-tail) - Arcade-speed jet combat shooter
