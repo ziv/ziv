@@ -2,7 +2,10 @@
 
 #### CHO
 
-https://github.com/cho-js/cho
+The only cross-platform, cross-runtime, decorator-based framework for building modular applications in TypeScript.
+
+- https://chojs.io/
+- https://github.com/cho-js/cho
 
 #### OpenTiles
 
